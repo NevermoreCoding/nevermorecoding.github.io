@@ -13,15 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+locale: en-US
+title_separator: |
+subtitle: Version 0.1
+url: https://nevermorecoding.github.io
+
+title: Nevermore Coding
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Under construction. A minimalist personal site to track my projects. 
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: NevermoreCoding
+minimal_mistakes_skin: mint #default
 search: true
 
 # Build settings

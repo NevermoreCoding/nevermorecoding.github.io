@@ -27,8 +27,8 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/src1q1.jpg
-    image_path: assets/images/src1q1.jpg
+  - url: /assets/images/src1q1.png
+    image_path: assets/images/src1q1.png
     alt: "placeholder image 1"
 ---
 

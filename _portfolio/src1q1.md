@@ -27,8 +27,8 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/src1q1.jpg
+    image_path: assets/images/src1q1.jpg
     alt: "placeholder image 1"
 ---
 

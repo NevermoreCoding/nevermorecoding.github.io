@@ -14,8 +14,8 @@ categories:
   - Robotics
   - cat 2
 tags:
-  - Skill: Computer Vision
-  - Tool: Point Cloud Library
+  - Skill - Computer Vision
+  - Tool - Point Cloud Library
 header:
   image: "/assets/images/r5valkyrie-mars.jpg"
   teaser: "/assets/images/r5valkyrie-space.jpg"

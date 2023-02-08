@@ -1,6 +1,8 @@
 main:
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
+#   - title: "Projects"
+#     url: /projects/
   - title: "Skills"
     url: /skills/
   - title: "Tools"

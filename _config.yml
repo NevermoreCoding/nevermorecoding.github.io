@@ -96,6 +96,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+collections: #These settings essentially say output index.html files for each portfolio document in _portfolio at _site/portfolio/<document-filename>/.
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 defaults:
   # _posts
   - scope:
@@ -115,6 +121,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -122,3 +136,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+

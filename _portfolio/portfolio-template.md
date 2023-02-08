@@ -10,6 +10,12 @@ tools:
 fields:
   - field 1
   - field 2
+categories:
+  - cat 1
+  - cat 2
+tags:
+  - tag 1
+  - tag 2
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg

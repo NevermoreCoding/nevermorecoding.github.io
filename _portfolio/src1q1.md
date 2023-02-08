@@ -17,8 +17,8 @@ tags:
   - Skill: Computer Vision
   - Tool: Point Cloud Library
 header:
-  image: /assets/images/r5valkyrie-mars.jpg
-  teaser: /assets/images/r5valkyrie-space.jpg
+  image: "/assets/images/r5valkyrie-mars.jpg"
+  teaser: "/assets/images/r5valkyrie-space.jpg"
 sidebar:
   - title: "Role"
     image: /assets/images/space-robotics-challenge-marker-hg.jpg

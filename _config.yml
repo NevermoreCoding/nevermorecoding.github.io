@@ -101,11 +101,11 @@ collections: #These settings essentially say output index.html files for each po
     output: true
     permalink: /:collection/:path/
     #add additional metadata
-    skills: true
-    tools: true
-    fields: true
-    category: true
-    tag: true
+    skill: true
+    tool: true
+    field: true
+    categories: true
+    tags: true
 
 
 defaults:

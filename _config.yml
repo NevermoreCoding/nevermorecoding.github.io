@@ -137,4 +137,14 @@ tag_archive:
   type: liquid
   path: /tags/
   
+skill_archive:
+  type: liquid
+  path: /skills/
+tool_archive:
+  type: liquid
+  path: /tools/
+field_archive:
+  type: liquid
+  path: /fields/
+  
 

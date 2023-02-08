@@ -10,10 +10,10 @@ main:
   - title: "Fields"
     url: /fields/
   - title: "Posts"
-   url: /posts/
+    url: /posts/
   - title: "Categories"
-   url: /categories/
+    url: /categories/
   - title: "Tags"
-   url: /tags/
+    url: /tags/
   - title: "About"
     url: /about/

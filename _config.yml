@@ -103,6 +103,14 @@ collections: #These settings essentially say output index.html files for each po
 
 
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
@@ -121,14 +129,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+
 
 category_archive:
   type: liquid

@@ -1,1 +1,1 @@
-Folder to store examples and templates
+Folder to store examples, templates, and drafts
